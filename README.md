@@ -14,11 +14,11 @@ A sleek and intuitive calculator app built with React and Tailwind CSS. Perform 
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](UI.png)
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
