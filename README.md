@@ -18,7 +18,7 @@ A sleek and intuitive calculator app built with React and Tailwind CSS. Perform 
 ## Screenshots
 
 ![Homepage](UI.png)
-<!--
+
 ## Installation
 
 To set up this project locally, follow these steps:
@@ -39,7 +39,7 @@ To set up this project locally, follow these steps:
     ```bash
     npm run dev
     ```
-
+<!--
 ## Usage
 
 After installation, you can run the project locally using the development server. The app includes the following features:
