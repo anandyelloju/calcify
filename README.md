@@ -39,7 +39,7 @@ To set up this project locally, follow these steps:
     ```bash
     npm run dev
     ```
-<!--
+
 ## Usage
 
 After installation, you can run the project locally using the development server. The app includes the following features:
@@ -48,7 +48,7 @@ After installation, you can run the project locally using the development server
 - **Theme Toggle:** Switch between light and dark themes using the toggle button embedded in the calculator.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Clean UI:** Simple and intuitive interface built with Tailwind CSS.
-
+<!--
 ## Features
 
 - **Modern Design:** Built with Tailwind CSS for a sleek, modern look.
