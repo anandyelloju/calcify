@@ -48,13 +48,13 @@ After installation, you can run the project locally using the development server
 - **Theme Toggle:** Switch between light and dark themes using the toggle button embedded in the calculator.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Clean UI:** Simple and intuitive interface built with Tailwind CSS.
-<!--
+
 ## Features
 
 - **Modern Design:** Built with Tailwind CSS for a sleek, modern look.
 - **Dark/Light Mode:** Easily switch between light and dark themes using the embedded toggle button.
 - **Responsive:** Adapts to various screen sizes for optimal user experience.
-
+<!--
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
