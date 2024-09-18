@@ -54,7 +54,7 @@ After installation, you can run the project locally using the development server
 - **Modern Design:** Built with Tailwind CSS for a sleek, modern look.
 - **Dark/Light Mode:** Easily switch between light and dark themes using the embedded toggle button.
 - **Responsive:** Adapts to various screen sizes for optimal user experience.
-<!--
+
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
@@ -62,7 +62,7 @@ After installation, you can run the project locally using the development server
 - **Vite:** Frontend tooling for fast development.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,javascript,html,css,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! If you have suggestions or improvements, feel free to submit a pull request.
