@@ -74,8 +74,6 @@ Contributions are always welcome! If you have suggestions or improvements, feel 
 - **Vite:** For fast and efficient development tooling.
 - [Anand Yelloju](https://github.com/anandyelloju) - Project Creator
 
-<!--
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/calcify/blob/main/LICENSE) file for details.
--->
